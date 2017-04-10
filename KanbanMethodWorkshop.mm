@@ -1,0 +1,12 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1491726852391" ID="ID_436468552" MODIFIED="1491727062481" TEXT="Kanban Method Workshop">
+<node CREATED="1491727069505" ID="ID_1413956140" MODIFIED="1491727074946" POSITION="right" TEXT="Who should join?">
+<node CREATED="1491727107267" ID="ID_1765806751" MODIFIED="1491727113913" TEXT="Software Develpers"/>
+<node CREATED="1491727115003" ID="ID_1718348711" MODIFIED="1491727157749" TEXT="QT Members"/>
+<node CREATED="1491727126808" ID="ID_1366248439" MODIFIED="1491727162447" TEXT="Marketing Members"/>
+<node CREATED="1491727137537" ID="ID_1994494332" MODIFIED="1491727153775" TEXT="TS Members"/>
+</node>
+<node CREATED="1491727078233" ID="ID_1952446075" MODIFIED="1491727086353" POSITION="left" TEXT="What should be done?"/>
+</node>
+</map>
